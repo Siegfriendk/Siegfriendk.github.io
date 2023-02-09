@@ -1,3 +1,3 @@
-# Siegfriendk.github.io
+# siegfriendk.github.io
 
 CV de Simone Weil
